@@ -1,0 +1,17 @@
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\DataAccess.dll.config
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\Entities.dll
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\Entities.pdb
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\bin\Debug\Entities.dll.config
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.Migrations.init.resources
+C:\Users\dangq\Desktop\KTTKPM_DHKTPM13B_BAITAPLON_NHOM13\ATM.DataAccess\DataAccess\obj\Debug\DataAccess.csproj.GenerateResource.cache

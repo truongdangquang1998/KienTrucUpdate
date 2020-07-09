@@ -1,0 +1,33 @@
+﻿<Window x:Class="ATM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ATM"
+        mc:Ignorable="d"
+        xmlns:UC="clr-namespace:ATM.Usercontrols"
+        AllowsTransparency="True"
+        Background="Black"
+        ResizeMode="NoResize"
+        WindowStartupLocation="CenterScreen" 
+        WindowState="Maximized"
+        WindowStyle="None">
+    <Grid>
+        <UC:ChangePinTransactionUC x:Name="ChangePinTransaction"/>
+        <UC:CheckBalanceTransactionUC x:Name="CheckBalanceTransaction"/>
+        <UC:LoginUC x:Name="Login"/>
+        <UC:PaymentTransactionUC x:Name="PaymentTransaction"/>
+        <UC:TransferTransactionUC x:Name="TransferTransaction"/>
+        <UC:WithdrawlTransactionUC x:Name="WithdrawlTransaction"/>
+        <UC:StaffUC x:Name="Staff"/>
+        <UC:CustomerUC x:Name="Customer"/>
+        <UC:ShowMessageUC x:Name="ShowMessage"/>
+        <UC:HowMuch x:Name="HowMuch"/>
+        <UC:InputMoneyUC x:Name="InputMoney"/>
+        <UC:ShowMessageBill x:Name="ShowMessageBill"/>
+        <UC:ShowMessagePay x:Name="ShowMessagePay"/>
+        <UC:ShowMessageBalance x:Name="ShowMessageBalance"/>
+        <UC:CheckMoneyATMUC x:Name="CheckMoneyATM"/>
+
+    </Grid>
+</Window>
